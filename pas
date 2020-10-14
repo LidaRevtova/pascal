@@ -14,4 +14,4 @@ class Pas:
 
     def __str__(self):
         """"""
-        return self.list
+        return str(self.list)
